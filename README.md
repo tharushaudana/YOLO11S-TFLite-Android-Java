@@ -19,7 +19,7 @@ This repository includes a YOLO11s model pretrained for playing card symbol dete
 ![Detection Screenshot](screenshots/screenshot1.jpg)
 
 ### Tensor Shape Output
-The output tensor shape and its details can be found in the following GitHub discussion:
+The output tensor shape and its details (for COCO dataset, 80 classes) can be found in the following GitHub discussion:
 [Ultralytics Discussion #17254](https://github.com/orgs/ultralytics/discussions/17254)
 
 ![Tensor Output](screenshots/output_shape.png)
